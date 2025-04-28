@@ -1,2 +1,6 @@
 "This is a new feature" 
+<<<<<<< HEAD
 "Main branch changes" 
+=======
+"Conflict branch changes" 
+>>>>>>> conflict-branch
